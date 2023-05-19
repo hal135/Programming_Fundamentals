@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad1a1c99-e124-4223-a337-4b6cf9cc5fac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables/centuries_to_minutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables/concat_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables/convert_meters_to_kilometers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables/next_happy_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables/pounds_to_dollars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types and Variables/special_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Chars to String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Gladiator Expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Integer Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Party Profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Print Part of the ASCII Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Snowballs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Sum of Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Triples of Latin Letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Water Overflow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +42,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.special_numbers">
-    <configuration name="centuries_to_minutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exchange Integers">
+    <configuration name="Exchange Integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/More Exercises - Data Types and Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Types and Variables/centuries_to_minutes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/More Exercises - Data Types and Variables/Exchange Integers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="concat_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Gladiator Expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Types and Variables/concat_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Gladiator Expenses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="convert_meters_to_kilometers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Print Part of the ASCII Table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Types and Variables/convert_meters_to_kilometers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Print Part of the ASCII Table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pounds_to_dollars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sum of Chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Types and Variables/pounds_to_dollars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Sum of Chars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="special_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Triples of Latin Letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Types and Variables/special_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Triples of Latin Letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.special_numbers" />
-        <item itemvalue="Python.centuries_to_minutes" />
-        <item itemvalue="Python.pounds_to_dollars" />
-        <item itemvalue="Python.convert_meters_to_kilometers" />
-        <item itemvalue="Python.concat_names" />
+        <item itemvalue="Python.Exchange Integers" />
+        <item itemvalue="Python.Triples of Latin Letters" />
+        <item itemvalue="Python.Gladiator Expenses" />
+        <item itemvalue="Python.Print Part of the ASCII Table" />
+        <item itemvalue="Python.Sum of Chars" />
       </list>
     </recent_temporary>
   </component>
