@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad1a1c99-e124-4223-a337-4b6cf9cc5fac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Chars to String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Elevator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Gladiator Expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Integer Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Party Profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Print Part of the ASCII Table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Snowballs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Sum of Chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Triples of Latin Letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Data Types and Variables/Water Overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Bread Factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Faro Shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Football Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Hello, France.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Invert Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Multiples List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Number Beggars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +26,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2PsozNhWoBU5HmlM0A1MzVnoMyF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Exchange Integers">
+  <component name="RunManager" selected="Python.Hello, France">
     <configuration name="Exchange Integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Gladiator Expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Football Cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Lists Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Gladiator Expenses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Football Cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Print Part of the ASCII Table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Hello, France" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Lists Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Print Part of the ASCII Table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Hello, France.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum of Chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Invert Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Lists Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Sum of Chars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Invert Values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Triples of Latin Letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Multiples List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Lists Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Data Types and Variables/Triples of Latin Letters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Multiples List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Hello, France" />
+        <item itemvalue="Python.Football Cards" />
+        <item itemvalue="Python.Multiples List" />
+        <item itemvalue="Python.Invert Values" />
         <item itemvalue="Python.Exchange Integers" />
-        <item itemvalue="Python.Triples of Latin Letters" />
-        <item itemvalue="Python.Gladiator Expenses" />
-        <item itemvalue="Python.Print Part of the ASCII Table" />
-        <item itemvalue="Python.Sum of Chars" />
       </list>
     </recent_temporary>
   </component>
