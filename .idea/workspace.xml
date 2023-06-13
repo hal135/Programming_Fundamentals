@@ -2,9 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad1a1c99-e124-4223-a337-4b6cf9cc5fac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML and CSS Basics/Welcome to HTML.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programming_Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming_Fundamentals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Decipher This.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Electron Distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Group of 10's.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Next Version 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Next Version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Number Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Office Chairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/SoftUni Course Planning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Which Are In.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ Lists Advanced/Word Filter .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Add and Subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Characters in Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Factorial Division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Loading Bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Min Max and Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Odd and Even Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Palindrome Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Password Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Perfect Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Smallest of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Functions/Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Lists Basics/Survival of the Biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1/Absolute Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1/Calculate Rectangle Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1/Calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1/Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1/Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1/Repeat String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1/Rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Advanced/Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Advanced/No Vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Advanced/Palindrome Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Advanced/Sorting Names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Advanced/The Office.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Advanced/To-do List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists Advanced/Trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шеяш.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +50,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -43,11 +78,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/гггг" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Hello, France">
-    <configuration name="Exchange Integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming_Fundamentals" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Sort">
+    <configuration name="Decipher This" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/More Exercises - Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Lists Advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/More Exercises - Data Types and Variables/Exchange Integers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Lists Advanced/Decipher This.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +108,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Football Cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Electron Distribution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ Lists Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ Lists Advanced/Electron Distribution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Even Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists Advanced/Even Numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_Fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Functions/Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Survival of the Biggest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_Fundamentals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,70 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Football Cards.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Hello, France" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_Fundamentals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Lists Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Hello, France.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Invert Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_Fundamentals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Lists Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Invert Values.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Multiples List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_Fundamentals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Lists Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Multiples List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise - Lists Basics/Survival of the Biggest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Hello, France" />
-        <item itemvalue="Python.Football Cards" />
-        <item itemvalue="Python.Multiples List" />
-        <item itemvalue="Python.Invert Values" />
-        <item itemvalue="Python.Exchange Integers" />
+        <item itemvalue="Python.Sort" />
+        <item itemvalue="Python.Electron Distribution" />
+        <item itemvalue="Python.Survival of the Biggest" />
+        <item itemvalue="Python.Decipher This" />
+        <item itemvalue="Python.Even Numbers" />
       </list>
     </recent_temporary>
   </component>
